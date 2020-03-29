@@ -1,0 +1,2 @@
+运行protect.exe后hello.exe即可运行
+在此期间关闭hello.exe后, protect.exe会重启hello.exe

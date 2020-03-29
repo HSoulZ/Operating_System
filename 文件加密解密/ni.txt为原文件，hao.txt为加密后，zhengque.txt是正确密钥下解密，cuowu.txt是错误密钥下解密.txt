@@ -1,0 +1,1 @@
+ni.txt为原文件，hao.txt为加密后，zhengque.txt是正确密钥下解密，cuowu.txt是错误密钥下解密
